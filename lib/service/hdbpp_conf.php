@@ -2,6 +2,7 @@
   define("HOST", "hdbpp-db");
   define("USERNAME", "hdbppro");
   define("PASSWORD", "hdbppro");
+  define("PORT", 3306);
   define("DB", "hdbpp");
   define("DBTYPE", "hdbpp");
   define("LOG_REQUEST", "../../log/hdbpp.log");
